@@ -5,12 +5,17 @@ contributor:
     agent_name: Knecht, Karl Kae
     gutenberg_agent_id: '54610'
     url: http://www.gutenberg.org/2009/agents/54610
+covers:
+- cover_type: archival
+  image_path: 68113-h/images/cover.jpg
 creator:
   author:
     agent_name: Winifred Sackville Stoner, Jr.
     gutenberg_agent_id: '54609'
     url: http://www.gutenberg.org/2009/agents/54609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68113#Jingles
 gutenberg_issued: '2022-05-17'
 identifiers:
   gutenberg: '68113'
